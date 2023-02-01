@@ -50,4 +50,3 @@ App.propTypes = {
 };
 
 export default App;
-
