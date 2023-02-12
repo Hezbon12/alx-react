@@ -142,5 +142,4 @@ App.defaultProps = {
 };
 
 export default App;
-Footer
-© 2023 GitHub, Inc.
+
