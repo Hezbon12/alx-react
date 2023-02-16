@@ -8,4 +8,3 @@ export function addElementToList(list, element) {
   const newList = List(list);
   return newList.push(element);
 }
-
